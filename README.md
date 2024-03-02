@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RexTitanium
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on programming projects that include use of aiml
-- 📫 How to reach me : contact me at s4samyak@gmail.com
-
-<!---
-RexTitanium/RexTitanium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Samyak Kashyap Shah
+Hi I am a AI/ML enthusiast, and currently pursuing a Master's in Computer Science from Indiana University Bloomington.
+- I am a skilled MERN stack developer with projects like Ignition which is a Learning Management System to allow professors and students to view, create and submit assignments, create and enroll into courses and create and view notifications.
+- I also have diverse knowledge and skills in Machine Learning and Deep learning with notable projects like Plant Health Detection System which uses a model trained on plant images to detect whether a particular area of field is healthy or not.
+- Having a keen interest in AI, I have also developed a Computer Vision based surveillance system with a violence detection model which uses a MobileNetV2 pre trained model to detect violences in real time and report to the respective authorities.
+- I am currently working on developing a basic Large Language Model like llama, gemini or chatGPT, which is trained on a relatively smaller dataset, in order to understand how a Transformer architecture works and how can custom LLMs be created in order to facilitate the newer generation of fields, to reduce human effort.
